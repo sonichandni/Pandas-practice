@@ -1,1 +1,1 @@
-# panda-practice
+# pandas-practice
